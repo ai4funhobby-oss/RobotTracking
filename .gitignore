@@ -1,0 +1,7 @@
+datasets/
+video_sources/
+.DS_Store
+.claude/
+.vscode/
+__pycache__/
+*.pyc
